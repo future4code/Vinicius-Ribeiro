@@ -1,0 +1,12 @@
+.computador, .mouse {
+    height: 40%;
+}
+
+.webcam {
+    width: 200px;
+}
+
+.teclado {
+    height:40%;
+    width: 30%;
+}

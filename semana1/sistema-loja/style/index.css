@@ -1,0 +1,48 @@
+
+* {
+    margin: 0;
+    padding: 0;
+
+}
+
+header {
+    background: red;
+    height: 80px;
+    
+}
+
+h1 {
+    text-align: center;
+}
+
+.frase {
+    text-align: center;
+}
+
+.imagens {
+    width: 20px;
+    display: flex;
+}
+
+img {
+    width: 20px;
+}
+
+footer {
+    background: blue;
+    position:absolute;
+    bottom:0;
+    width: 100%;
+    height: 70px;
+}
+
+img {
+    justify-content: right;
+
+}
+
+.imagem1 {
+    align-self: right;
+    float: right;
+}
+
