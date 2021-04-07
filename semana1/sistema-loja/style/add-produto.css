@@ -1,5 +1,5 @@
 * {
-    background: brown;
+    background: #D2B48C;
 }
 
 h2 {
@@ -12,3 +12,8 @@ h2 {
     margin-top: 50px;
 }
 
+.bar {
+    display:flex;
+    justify-content: space-between;
+    margin: 0 30px;
+}
