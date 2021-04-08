@@ -29,10 +29,6 @@ img {
     width: 100px;
 }
 
-div>p:first-child {
-    display: inline;
-}
-
 div img {
     background: black;
 }
@@ -45,6 +41,7 @@ div img {
     font-size: 20px;
     color: white;
 }
+
 
 .botao-amarelo:hover {
     background-color: #c44f00;
@@ -127,4 +124,13 @@ td button {
 
 #back-button:hover {
     background-color: #635a3d
+}
+
+
+/** 
+Minhas estilizações
+**/
+
+.div-compra {
+    
 }
