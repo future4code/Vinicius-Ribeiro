@@ -137,3 +137,11 @@ Minhas estilizações
 .mensagem3 {
     margin-left:150px;
 }
+
+td > button:hover {
+    background:yellow;
+}
+
+td > button:active {
+    background:white;
+}
