@@ -1,0 +1,18 @@
+* {
+    background: #FFE4C4
+}
+
+h2 {
+    text-align: center;
+}
+
+.lista {
+    text-align: center;
+    font-style: inherit;
+}
+
+.bar {
+    display:flex;
+    justify-content: space-between;
+    margin: 0 30px;
+}

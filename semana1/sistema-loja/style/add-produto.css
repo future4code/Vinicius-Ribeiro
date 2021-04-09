@@ -1,0 +1,19 @@
+* {
+    background: #D2B48C;
+}
+
+h2 {
+    text-align: center;
+    margin-top: 140px;
+}
+
+.formulario {
+    text-align: center;
+    margin-top: 50px;
+}
+
+.bar {
+    display:flex;
+    justify-content: space-between;
+    margin: 0 30px;
+}
